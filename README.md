@@ -1,2 +1,3 @@
 # My-portfolio
-about owner
+this project created by Pushpdeep singh 
+
